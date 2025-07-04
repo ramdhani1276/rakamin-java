@@ -14,7 +14,7 @@ public class fungsi {
         NamaKu.Icha("Ridwan");
         NamaKu.Icha("Suaep");
 
-        hasil.printNama("Beda Package");
+        hasil.printNama("Beda Package Contoh");
         hasil.printNama("Contoh GIT");
 
         tambah(x,y);
